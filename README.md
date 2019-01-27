@@ -6,4 +6,5 @@ Test our piezo based chewing sensors (created by Idiot.io) generating electricit
 - blockchain experiment over Node RED communicating with a Hyperledger contract (chewing on the ledger as pay per chew model)
 - generate electricity for LED or device that gives back to the plant you eat or as a way to send an apology.
 
-Intro into deep learning (https://console.bluemix.net/docs/services/retrieve-and-rank/training-data.html)
+[Intro into deep learning](https://console.bluemix.net/docs/services/retrieve-and-rank/training-data.html)
+Research on chewing (https://wiki.idiot.io/chew)
