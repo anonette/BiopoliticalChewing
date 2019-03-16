@@ -16,6 +16,7 @@ conda will install all needed dependncies based on supplied enviroment.yml file.
 
 then run in command line prompt
 ```
+ git clone https://github.com/anonette/BiopoliticalChewing
  cd BiopoliticalChewing
  conda create --name biochew --file enviroment.yml
  conda activate biochew
